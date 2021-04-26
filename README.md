@@ -2,6 +2,8 @@
 
 While trying to use `reifyInstances`, I ran into some weird behavior.
 
+It's fixed with `$(pure [])`, funny enough. Just ensure that you have a splice group separation and it should be fine.
+
 ## GHC internal error
 
 ```haskell
