@@ -1,4 +1,4 @@
-# reify-instances-bug
+# reify-instances-~~bug~~weird-behavior (sorry sorry soorryyyy)
 
 While trying to use `reifyInstances`, I ran into some weird behavior.
 
